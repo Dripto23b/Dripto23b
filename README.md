@@ -36,7 +36,7 @@
 <!-- ## 🏆 GitHub Trophies
 <div align = "center">
   <img
-    src = "https://github-profile-trophy.vercel.app/?username=srijan-76448&theme=radical&no-frame=false&no-bg=false&margin-w=4"
+    src = "https://github-profile-trophy.vercel.app/?username=Dripto23b&theme=radical&no-frame=false&no-bg=false&margin-w=4"
     alt = "Language Stats"
     width = "75%"
   />
